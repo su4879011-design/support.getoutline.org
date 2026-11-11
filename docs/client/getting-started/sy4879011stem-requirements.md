@@ -13,4 +13,5 @@ You are welcome to try Outline on any operating system. The following are the mi
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 
-Want to help Outline Client work on more operating systems? [Contribute to our code base](https://github.com/OutlineFoundation/outline-client#platform-specific-development) on GitHub!
+Want to help Outline Client work on more operating systems? [Contribute to our code base](https://github.com/OutlineFoundation/outline-client#platform-specific-development<img width="1220" height="2712" alt="1000016341" src="https://github.com/user-attachments/assets/fce853d6-f6c2-4885-bbdf-5870ce46688a" />
+) on GitHub!
